@@ -139,7 +139,7 @@ const KeyMap rm_qwerty_keymap = {
   { KEY_8, { '8', '*' } },
   { KEY_9, { '9', '(' } },
   { KEY_0, { '0', ')', '+' } },
-  { KEY_EQUAL, { '=', '_' },
+  { KEY_EQUAL, { '=', '_' } },
   { KEY_MINUS, { '-', '_' } },
   { KEY_BACKSPACE, { Backspace } },
   { KEY_TAB, { Tab } },
